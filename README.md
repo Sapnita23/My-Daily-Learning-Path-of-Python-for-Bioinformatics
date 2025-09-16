@@ -20,4 +20,8 @@ Eg-list1=[8,2.3, [-4, 5], ["apple", "banana"]]
 Tuple: A tuple is an ordered collection of data with elementsseperated by a comma and enclosed within paratheses. Tuples are immutable and cannot be modified after creation.
 Ex- tuple1=(("parrot", "sparrow"), ("Lion", "Tiger"))
 Mapped data-dictionary
-dict: Collection of key value in dictionary
+dict: Collection of key value pairs,
+dictionary is a mapped data
+**IN PYTHON EVERYTHING IS A OBJECT**
+OPERATORS
+Python has different types of operators for different operations. To create a calculator arithmetic operators are required
