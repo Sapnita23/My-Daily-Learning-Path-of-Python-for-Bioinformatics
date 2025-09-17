@@ -1,0 +1,28 @@
+Typecasting-
+
+The conversion of one data type into the other data type is known as type casting in python or type conversion in python.
+
+Python supports a wide variety of functions or methods like: 
+
+into(), float(), str(), ord(), hex90, oct(), tuple(), set(), list(), dict(), etc for the type casting in python
+
+Types of typecasting-
+
+Explicit conversion- String to integer done intentionally
+
+The conversion of one data type into another data type, done via developer or programmer's intervention or manually as per the requirement, is known as explicit type conversion.
+
+Implicit conversion-python is doing itself-
+
+Data types in Python do not have the same level i.e. ordering of data types is not the same in python.
+
+Some of the data types have higher-order, 
+
+and some have lower order. while performing any operations on variables with different data types in Python, one of the variables data types will be changed to the higher data type. According to the level, one data type is converted into 
+
+other by the python interpreter itself.
+Taking user input into python-
+In python, we can take user input directly by using input() function. This input function gives a return value as string/character
+hence we have to pass that into a variable.
+
+
